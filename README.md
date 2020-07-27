@@ -340,6 +340,7 @@ Code
 
 * :tada: [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
 * :tada: [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
+* :tada: [DijkstraMaps](http://www.roguebasin.com/index.php?title=Dijkstra_Maps_Visualized) - A neat trick for fast pathfinding and effective desire-driven AI in rougelike games
 
 
 Audio
